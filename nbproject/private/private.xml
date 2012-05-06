@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/var/www/Desarroll/controllers/posts_controller.php</file>
+        <file>file:/var/www/Desarroll/views/posts/index.ctp</file>
+        <file>file:/var/www/Desarroll/views/posts/edit.ctp</file>
+        <file>file:/var/www/Desarroll/views/posts/add.ctp</file>
+        <file>file:/var/www/Desarroll/app_model.php</file>
+        <file>file:/var/www/Desarroll/app_helper.php</file>
+        <file>file:/var/www/Desarroll/app_controller.php</file>
+        <file>file:/var/www/Desarroll/controllers/mensajes_controller.php</file>
+        <file>file:/var/www/Desarroll/controllers/usuarios_controller.php</file>
+        <file>file:/var/www/Desarroll/controllers/CakeResponse.php</file>
+        <file>file:/var/www/Desarroll/models/mensaje.php</file>
+        <file>file:/var/www/Desarroll/models/post.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/Aco.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/ConnectionManager.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/CakeSchema.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/AppModel.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/Permission.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/ModelBehavior.php</file>
+        <file>file:/var/www/Desarroll/libs/Cake/Model/AclNode.php</file>
+        <file>file:/var/www/Desarroll/controllers/subdocuments_controller.php</file>
+        <file>file:/var/www/Desarroll/plugins/mongodb/models/datasources/mongodb_source.php</file>
+    </open-files>
+</project-private>

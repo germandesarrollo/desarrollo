@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mensaje>
+<nombre>prueba1</nombre>
+<comentario>comentario1</comentario>
+<megusta>0</megusta>
+<nomegusta>0</nomegusta>
+<respuesta>true</respuesta>
+<notificacion>true</notificacion>
+<fecha_creacion>new MongoDate()</fecha_creacion>
+<usuarios>
+    <usuario></usuario>
+</usuarios>
+<listamensajes>
+    <mensaje></mensaje>
+</listamensajes>
+<usuario>german</usuario>
+<tags>
+<tag>ponies</tag>
+</tags>
+</Mensaje>
